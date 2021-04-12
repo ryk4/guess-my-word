@@ -1,1 +1,2 @@
-# guess-my-word
+# Simple Javascript Exercise
+
